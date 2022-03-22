@@ -1,4 +1,11 @@
+![huerqiang's github stats](https://github-readme-stats.vercel.app/api?username=huerqiang&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huerqiang&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
+
+
+
+
 ### Hi there 👋
+My name is huerqiang and I'm a PHD student in Department of Bioinformatics at Southern Medical University.
 
 <!--
 **huerqiang/huerqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
